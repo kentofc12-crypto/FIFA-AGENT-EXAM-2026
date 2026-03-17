@@ -49,6 +49,14 @@ FIFA フットボールエージェント試験 2026 に合格するための包
 | [15_examen_simulado_2_es_ja.md](./15_examen_simulado_2_es_ja.md) | **模擬試験 スペイン語版 第2回**（20問 + JA解説） |
 | [16_estrategia_examen_es_ja.md](./16_estrategia_examen_es_ja.md) | **スペイン語受験の戦略・検索キーワード集** |
 
+### 追加問題集 スペイン語版（試験本番対策用）
+| ファイル | 内容 |
+|---------|------|
+| [21_examen_practica_4_es_ja.md](./21_examen_practica_4_es_ja.md) | Examen N.º 4（20問）— 紛らわしい論点・ひっかけ（ES問題文 + JA解説） |
+| [22_examen_practica_5_es_ja.md](./22_examen_practica_5_es_ja.md) | Examen N.º 5（20問）— 総合応用・複合シナリオ（ES問題文 + JA解説） |
+| [23_examen_practica_6_es_ja.md](./23_examen_practica_6_es_ja.md) | Examen N.º 6（20問）— 直前確認・スピード演習（ES問題文 + JA解説） |
+| [24_ejercicios_tematicos_es_ja.md](./24_ejercicios_tematicos_es_ja.md) | Ejercicios temáticos（35問）— 分野別ドリル（ES問題文 + JA解説） |
+
 ## 公式教材（出題範囲）— スペイン語版の正式名称
 
 | # | Español | 日本語 |
