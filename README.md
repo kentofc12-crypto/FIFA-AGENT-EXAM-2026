@@ -1,48 +1,65 @@
 # FIFA Football Agent Exam 2026 - 試験対策資料
+# Materiales de preparación para el Examen de Agente de Fútbol FIFA 2026
 
 FIFA フットボールエージェント試験 2026 に合格するための包括的な学習資料・模擬試験集です。
+**スペイン語で受験** — スペイン語の問題文・用語に慣れつつ、日本語で理解を深める構成です。
 
-## 試験概要
+## 試験概要 / Resumen del examen
 
 | 項目 | 内容 |
 |------|------|
-| 試験形式 | 多肢選択式（MCQ）20問 |
-| 試験時間 | 60分 |
-| 合格基準 | 75%以上（15問/20問） |
-| 試験方式 | オンライン・オープンブック（公式教材参照可） |
-| 使用言語 | 英語・スペイン語・フランス語（翻訳ツール使用可） |
-| 試験日程 | 2026年4月28-30日、5月5-7日 |
+| 試験形式 | 多肢選択式（MCQ）20問 / 20 preguntas de opción múltiple |
+| 試験時間 | 60分 / 60 minutos |
+| 合格基準 | 75%以上（15問/20問） / Mínimo 75% |
+| 試験方式 | オンライン・オープンブック / Examen online, libro abierto |
+| **受験言語** | **スペイン語 (Español)** |
+| 試験日 | **2026年4月30日** |
 
 ## ファイル構成
 
+### 日本語ベース資料（基礎理解用）
 | ファイル | 内容 |
 |---------|------|
 | [01_study_guide_ja.md](./01_study_guide_ja.md) | 総合学習ガイド（日本語） |
-| [02_ffar_summary_ja.md](./02_ffar_summary_ja.md) | FIFA Football Agent Regulations 要点まとめ |
-| [03_rstp_summary_ja.md](./03_rstp_summary_ja.md) | 選手の地位及び移籍に関する規則 要点まとめ |
-| [04_statutes_tribunal_ja.md](./04_statutes_tribunal_ja.md) | FIFA定款・Football Tribunal 要点まとめ |
-| [05_practice_exam_1_ja.md](./05_practice_exam_1_ja.md) | 模擬試験 第1回（20問） |
-| [06_practice_exam_2_ja.md](./06_practice_exam_2_ja.md) | 模擬試験 第2回（20問） |
-| [07_practice_exam_3_ja.md](./07_practice_exam_3_ja.md) | 模擬試験 第3回（20問） |
+| [02_ffar_summary_ja.md](./02_ffar_summary_ja.md) | FFAR 要点まとめ（日本語） |
+| [03_rstp_summary_ja.md](./03_rstp_summary_ja.md) | RSTP 要点まとめ（日本語） |
+| [04_statutes_tribunal_ja.md](./04_statutes_tribunal_ja.md) | FIFA定款・Tribunal 要点まとめ（日本語） |
+| [05_practice_exam_1_ja.md](./05_practice_exam_1_ja.md) | 模擬試験 第1回・日本語（20問） |
+| [06_practice_exam_2_ja.md](./06_practice_exam_2_ja.md) | 模擬試験 第2回・日本語（20問） |
+| [07_practice_exam_3_ja.md](./07_practice_exam_3_ja.md) | 模擬試験 第3回・日本語（20問） |
 | [08_key_terms_glossary_ja.md](./08_key_terms_glossary_ja.md) | 重要用語集（英日対照） |
+| [09_daily_study_schedule_ja.md](./09_daily_study_schedule_ja.md) | 45日間の詳細学習スケジュール |
 
-## 公式教材（出題範囲）
+### スペイン語・日本語バイリンガル資料（試験本番用）
+| ファイル | 内容 |
+|---------|------|
+| [10_glosario_es_ja.md](./10_glosario_es_ja.md) | **スペイン語-日本語 用語集**（試験最重要） |
+| [11_resumen_ffar_es_ja.md](./11_resumen_ffar_es_ja.md) | FFAR 要点（ES問題文 + JA解説） |
+| [12_resumen_retj_es_ja.md](./12_resumen_retj_es_ja.md) | RETJ/RSTP 要点（ES問題文 + JA解説） |
+| [13_resumen_estatutos_tribunal_es_ja.md](./13_resumen_estatutos_tribunal_es_ja.md) | Estatutos・Tribunal（ES + JA） |
+| [14_examen_simulado_1_es_ja.md](./14_examen_simulado_1_es_ja.md) | **模擬試験 スペイン語版 第1回**（20問 + JA解説） |
+| [15_examen_simulado_2_es_ja.md](./15_examen_simulado_2_es_ja.md) | **模擬試験 スペイン語版 第2回**（20問 + JA解説） |
+| [16_estrategia_examen_es_ja.md](./16_estrategia_examen_es_ja.md) | **スペイン語受験の戦略・検索キーワード集** |
 
-1. **FIFA Statutes**（2024年5月版）
-2. **FIFA Regulations on the Status and Transfer of Players（RSTP）**（2025年7月版）
-3. **FIFA Procedural Rules Governing the Football Tribunal**（2026年1月版）
-4. **FIFA Clearing House Regulations**（2026年1月版）
-5. **FIFA Football Agent Regulations（FFAR）**（2025年1月版）
-6. **FIFA Football Agent Regulations - FAQs**（2023年3月版）
+## 公式教材（出題範囲）— スペイン語版の正式名称
+
+| # | Español | 日本語 |
+|---|---------|--------|
+| 1 | **Estatutos de la FIFA** (mayo 2024) | FIFA定款 |
+| 2 | **Reglamento sobre el Estatuto y la Transferencia de Jugadores (RETJ)** (julio 2025) | RSTP |
+| 3 | **Reglas de Procedimiento del Tribunal del Fútbol** (enero 2026) | Football Tribunal手続規則 |
+| 4 | **Reglamento de la Cámara de Compensación de la FIFA** (enero 2026) | Clearing House規則 |
+| 5 | **Reglamento sobre Agentes de Fútbol** (enero 2025) | FFAR |
+| 6 | **Preguntas frecuentes sobre el RAF** (marzo 2023) | FFAR FAQ |
 
 ## 学習のポイント
 
-- 出題の60-70%はFFARとRSTPから出題される
-- オープンブック試験だが、1問あたり約3分しかないため、教材の構造を把握し素早く検索できることが重要
-- 合格率は約30%前後 — しっかりとした準備が必要
-- 公式教材を最低5回は精読することが推奨される
+- 出題の60-70%はFFAR（RAF）とRSTP（RETJ）から出題される
+- **スペイン語の法律用語に慣れることが最優先**
+- オープンブック試験 — スペイン語PDF教材の検索スピードが合否を分ける
+- 合格率は約30% — しっかりとした準備が必要
+- まず日本語で概念を理解 → スペイン語の条文表現に慣れる、の順で学習
 
 ## 注意事項
 
 この資料は学習の補助を目的としています。正確な情報はFIFA公式サイトおよび公式教材を必ず確認してください。
-FIFAは特定の準備コースを推奨しておらず、公式教材が唯一の正式な学習ソースです。
