@@ -30,6 +30,14 @@ FIFA フットボールエージェント試験 2026 に合格するための包
 | [08_key_terms_glossary_ja.md](./08_key_terms_glossary_ja.md) | 重要用語集（英日対照） |
 | [09_daily_study_schedule_ja.md](./09_daily_study_schedule_ja.md) | 45日間の詳細学習スケジュール |
 
+### 追加問題集（試験対策強化用）
+| ファイル | 内容 |
+|---------|------|
+| [17_practice_exam_4_ja.md](./17_practice_exam_4_ja.md) | 模擬試験 第4回（20問）— 紛らわしい論点・ひっかけ問題 |
+| [18_practice_exam_5_ja.md](./18_practice_exam_5_ja.md) | 模擬試験 第5回（20問）— 総合応用・複合シナリオ |
+| [19_practice_exam_6_ja.md](./19_practice_exam_6_ja.md) | 模擬試験 第6回（20問）— 直前確認・スピード演習（40分） |
+| [20_topic_drills_ja.md](./20_topic_drills_ja.md) | 分野別弱点克服ドリル（35問）— テーマ別集中問題 |
+
 ### スペイン語・日本語バイリンガル資料（試験本番用）
 | ファイル | 内容 |
 |---------|------|
