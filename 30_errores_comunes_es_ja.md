@@ -47,15 +47,16 @@ TC = Training = 育成年齢に限定（21歳）。ソリダリティ = より�
 
 ---
 
-### Confusión 4: Tasas de honorarios 3% vs 10% vs 6% / サービス料率
+### Confusión 4: Tasas de honorarios 5% vs 3% vs 10% vs 6% / サービス料率
 
 | Quién paga / 支払者 | Base / 基準 | Tasa / 料率 |
 |--------------------|------------|------------|
-| **Jugador** → agente / 選手→エージェント | Remuneración anual / 年間報酬 | **3%** |
-| **Club** → agente (≤USD 200K) / クラブ→エージェント | Primeros 200K del traspaso / 移籍金最初の200K | **10%** |
-| **Club** → agente (>USD 200K) / クラブ→エージェント | Resto / 超過分 | **6%** |
+| **Jugador** → agente (≤USD 200K) / 選手→エージェント（≤200K） | Remuneración anual / 年間報酬 | **5%** |
+| **Jugador** → agente (>USD 200K) / 選手→エージェント（>200K） | Remuneración anual / 年間報酬 | **3%** |
+| **Club** → agente (≤USD 200K) / クラブ→エージェント（≤200K） | Traspaso / 移籍金 | **10%** |
+| **Club** → agente (>USD 200K) / クラブ→エージェント（>200K） | Traspaso (resto) / 移籍金（超過分） | **6%** |
 
-💡 **¡El método de cálculo cambia COMPLETAMENTE según QUIÉN paga!**
+💡 **¡El método de cálculo cambia COMPLETAMENTE según QUIÉN paga Y el importe!**
 「誰が払うか」で計算方法が**完全に**変わる！
 
 ---

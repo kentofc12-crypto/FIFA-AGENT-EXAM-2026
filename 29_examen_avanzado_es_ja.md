@@ -20,8 +20,8 @@ El agente X firmó un contrato de representación con el jugador A en junio de 2
 **Respuesta correcta / 正解: B**
 
 **Explicación / 解説:**
-Cuando el **jugador** paga al agente, el máximo es **3% de la remuneración anual** (FFAR Art. 15). USD 600,000 × 3% = USD 18,000. El cálculo basado en el traspaso (10%/6%) se aplica solo cuando el **club** paga.
-**選手**がエージェントに支払う場合、上限は**年間報酬の3%**。移籍金ベースの計算はクラブが支払う場合のみ適用。
+Cuando el **jugador** paga al agente, la tasa depende de su remuneración anual: **5%** si ≤ USD 200K, **3%** si > USD 200K (FFAR Art. 15). Aquí, USD 600,000 > 200K → 3%. USD 600,000 × 3% = USD 18,000. El cálculo basado en el traspaso (10%/6%) se aplica solo cuando el **club** paga.
+**選手**がエージェントに支払う場合、年間報酬≤USD 200Kなら**5%**、>USD 200Kなら**3%**。ここではUSD 600,000 > 200K → 3%。移籍金ベースの計算はクラブが支払う場合のみ適用。
 
 ---
 

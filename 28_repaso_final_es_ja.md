@@ -14,7 +14,8 @@
 | Edad mínima para licencia / ライセンス取得年齢 | **18 años / 18歳以上** | FFAR Art. 4 |
 | Duración máxima del contrato de representación / 代理契約の最長期間 | **2 años / 2年（renovación automática prohibida / 自動更新不可）** | FFAR Art. 12 |
 | Requisito de forma / 書面要件 | **Por escrito y registrado en FAMS / 書面必須・FAMS登録** | FFAR Art. 12 |
-| Honorarios máximos (jugador paga) / サービス料上限（選手支払い） | **3% de la remuneración anual / 年間報酬の3%** | FFAR Art. 15 |
+| Honorarios máximos (jugador paga, ≤USD 200K) / サービス料上限（選手支払い、≤200K） | **5% de la remuneración anual / 年間報酬の5%** | FFAR Art. 15 |
+| Honorarios máximos (jugador paga, >USD 200K) / サービス料上限（選手支払い、>200K） | **3% de la remuneración anual / 年間報酬の3%** | FFAR Art. 15 |
 | Honorarios máximos (club paga, ≤USD 200K) / クラブ支払い（≤200K） | **10% del traspaso / 移籍金の10%** | FFAR Art. 15 |
 | Honorarios máximos (club paga, >USD 200K) / クラブ支払い（>200K） | **10% de los primeros 200K + 6% del resto / 最初の200Kの10%＋残額の6%** | FFAR Art. 15 |
 | Representación múltiple / 複数代理 | **Prohibida en principio / 原則禁止** | FFAR Art. 13 |
@@ -99,14 +100,21 @@ Traspaso de USD 500,000 (el club paga al agente):
 ```
 
 ```
+Remuneración anual del jugador USD 100,000 (el jugador paga al agente):
+選手の年間報酬 USD 100,000（選手がエージェントに支払う場合）:
+
+  USD 100,000 × 5% = USD 5,000  (≤ USD 200K → 5%)
+```
+
+```
 Remuneración anual del jugador USD 1,000,000 (el jugador paga al agente):
 選手の年間報酬 USD 1,000,000（選手がエージェントに支払う場合）:
 
-  USD 1,000,000 × 3% = USD 30,000
+  USD 1,000,000 × 3% = USD 30,000  (> USD 200K → 3%)
 ```
 
-**Regla clave / 最重要ルール：** ¡El método de cálculo cambia según QUIÉN paga!
-「誰が支払うか」で計算方法が完全に変わる！
+**Regla clave / 最重要ルール：** ¡El método de cálculo cambia según QUIÉN paga Y el importe!
+「誰が支払うか」と「金額」で計算方法が完全に変わる！
 
 ### 2.3 Indemnización por Formación (TC) vs Mecanismo de Solidaridad / TCvsソリダリティ
 
