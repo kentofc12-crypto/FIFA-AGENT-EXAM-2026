@@ -8,20 +8,20 @@
 
 ### Pregunta 1 / 問1: Contrato de representación × Honorarios / 代理契約 × サービス料
 
-El agente X firmó un contrato de representación con el jugador A en junio de 2024. El contrato es no exclusivo y está registrado en FAMS. En agosto de 2025, el jugador A se transfiere al Club B por un traspaso de USD 400,000, con una remuneración anual de USD 600,000. El contrato establece que el jugador A paga al agente X. ¿Cuál es el honorario máximo que puede recibir el agente X?
+El agente X firmó un contrato de representación con el jugador A (persona) en junio de 2024. El contrato es no exclusivo y está registrado en FAMS. En agosto de 2025, el jugador A se transfiere al Club B por un traspaso de USD 400,000, con una remuneración anual de USD 600,000. El agente X representa únicamente al jugador. ¿Cuál es el honorario máximo que puede recibir el agente X?
 
-エージェントXは2024年6月に選手Aと非独占の代理契約を締結しFAMS登録済み。2025年8月、選手AがクラブBに移籍金USD 400,000、年間報酬USD 600,000で移籍。選手がエージェントに支払う契約の場合、上限額は？
+エージェントXは2024年6月に選手A（persona）と非独占の代理契約を締結しFAMS登録済み。2025年8月、選手AがクラブBに移籍金USD 400,000、年間報酬USD 600,000で移籍。エージェントXは選手のみを代理。上限額は？
 
-- A) USD 40,000 (10% del traspaso / 移籍金の10%)
-- B) USD 18,000 (3% de la remuneración anual / 年間報酬の3%)
-- C) USD 32,000 (cálculo escalonado del traspaso / 移籍金の段階計算)
-- D) USD 24,000 (6% del traspaso / 移籍金の6%)
+- A) USD 22,000 (5% de los primeros 200K + 3% del excedente / 最初の200Kに5%＋超過分に3%)
+- B) USD 18,000 (3% de la remuneración total / 報酬全体の3%)
+- C) USD 30,000 (5% de la remuneración total / 報酬全体の5%)
+- D) USD 40,000 (10% del traspaso / 移籍金の10%)
 
-**Respuesta correcta / 正解: B**
+**Respuesta correcta / 正解: A**
 
 **Explicación / 解説:**
-Cuando el **jugador** paga al agente, la tasa depende de su remuneración anual: **5%** si ≤ USD 200K, **3%** si > USD 200K (FFAR Art. 15). Aquí, USD 600,000 > 200K → 3%. USD 600,000 × 3% = USD 18,000. El cálculo basado en el traspaso (10%/6%) se aplica solo cuando el **club** paga.
-**選手**がエージェントに支払う場合、年間報酬≤USD 200Kなら**5%**、>USD 200Kなら**3%**。ここではUSD 600,000 > 200K → 3%。移籍金ベースの計算はクラブが支払う場合のみ適用。
+Cuando el agente representa a una **persona** (jugador), la base es la **remuneración del jugador**, NO el traspaso (FFAR Art. 15). Como la remuneración (USD 600,000) supera USD 200,000: primeros 200,000 × 5% = 10,000 + excedente 400,000 × 3% = 12,000 → **total USD 22,000**. B es incorrecto porque aplica el 3% a toda la remuneración sin la primera franja del 5%.
+エージェントが**選手（persona）**を代理する場合、計算基準は移籍金ではなく**選手の報酬**。報酬がUSD 200,000を超えるため：最初の200,000 × 5% = 10,000 ＋ 超過分400,000 × 3% = 12,000 → **合計USD 22,000**。
 
 ---
 
@@ -302,25 +302,20 @@ RSTP Art. 2：「サッカー活動に対して実費を超える報酬を受け
 
 ### Pregunta 15 / 問15: Cálculo de honorarios / サービス料計算
 
-El Club O encargó a un agente la adquisición del jugador H. Traspaso: USD 1,000,000. ¿Cuál es el honorario máximo?
+El Club P (entidad de origen) encargó a un agente la gestión del traspaso del jugador H. Indemnización por transferencia: USD 1,000,000. ¿Cuál es el honorario máximo?
 
-クラブOがエージェントに選手Hの獲得を依頼。移籍金USD 1,000,000。上限額は？
+クラブP（移籍元・entidad de origen）がエージェントに選手Hの移籍交渉を依頼。移籍金USD 1,000,000。上限額は？
 
 - A) USD 100,000
 - B) USD 68,000
 - C) USD 60,000
-- D) USD 30,000
+- D) USD 50,000
 
-**Respuesta correcta / 正解: B**
+**Respuesta correcta / 正解: A**
 
 **Explicación / 解説:**
-```
-Primeros USD 200,000 × 10% = USD 20,000
-Resto USD 800,000 × 6%    = USD 48,000
-Total / 合計:                USD 68,000
-```
-A es 10% simple (error). C es solo 6% (error).
-Aは単純10%で誤り。Cは6%のみで誤り。
+Cuando el agente representa a la **entidad de origen**, el honorario se calcula sobre la **indemnización por transferencia** a tasa fija del **10%** (FFAR Art. 15). USD 1,000,000 × 10% = **USD 100,000**. No hay escalonamiento — la tasa del 10% es fija independientemente del monto.
+**移籍元クラブ（entidad de origen）**を代理する場合、**移籍金**ベースで一律**10%**。段階料率は適用されない。USD 1,000,000 × 10% = USD 100,000。
 
 ---
 

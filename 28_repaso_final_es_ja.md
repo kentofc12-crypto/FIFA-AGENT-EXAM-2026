@@ -14,10 +14,13 @@
 | Edad mínima para licencia / ライセンス取得年齢 | **18 años / 18歳以上** | FFAR Art. 4 |
 | Duración máxima del contrato de representación / 代理契約の最長期間 | **2 años / 2年（renovación automática prohibida / 自動更新不可）** | FFAR Art. 12 |
 | Requisito de forma / 書面要件 | **Por escrito y registrado en FAMS / 書面必須・FAMS登録** | FFAR Art. 12 |
-| Honorarios máximos (jugador paga, ≤USD 200K) / サービス料上限（選手支払い、≤200K） | **5% de la remuneración anual / 年間報酬の5%** | FFAR Art. 15 |
-| Honorarios máximos (jugador paga, >USD 200K) / サービス料上限（選手支払い、>200K） | **3% de la remuneración anual / 年間報酬の3%** | FFAR Art. 15 |
-| Honorarios máximos (club paga, ≤USD 200K) / クラブ支払い（≤200K） | **10% del traspaso / 移籍金の10%** | FFAR Art. 15 |
-| Honorarios máximos (club paga, >USD 200K) / クラブ支払い（>200K） | **10% de los primeros 200K + 6% del resto / 最初の200Kの10%＋残額の6%** | FFAR Art. 15 |
+| Honorarios: persona (≤USD 200K) / 選手代理（≤200K） | **5% de la remuneración / 報酬の5%** | FFAR Art. 15 |
+| Honorarios: persona (>USD 200K) / 選手代理（>200K） | **5% de los primeros 200K + 3% del excedente / 最初の200Kに5%＋超過分に3%** | FFAR Art. 15 |
+| Honorarios: entidad de destino (≤USD 200K) / 移籍先クラブ代理（≤200K） | **5% de la remuneración / 報酬の5%** | FFAR Art. 15 |
+| Honorarios: entidad de destino (>USD 200K) / 移籍先クラブ代理（>200K） | **5% de los primeros 200K + 3% del excedente / 最初の200Kに5%＋超過分に3%** | FFAR Art. 15 |
+| Honorarios: doble representación (≤USD 200K) / 双方代理（≤200K） | **10% de la remuneración / 報酬の10%** | FFAR Art. 15 |
+| Honorarios: doble representación (>USD 200K) / 双方代理（>200K） | **10% de los primeros 200K + 6% del excedente / 最初の200Kに10%＋超過分に6%** | FFAR Art. 15 |
+| Honorarios: entidad de origen / 移籍元クラブ代理 | **10% de la indemnización por transferencia（一律）/ 移籍金の10%** | FFAR Art. 15 |
 | Representación múltiple / 複数代理 | **Prohibida en principio / 原則禁止** | FFAR Art. 13 |
 | Conflicto de intereses / 利益相反 | **Prohibición absoluta / 絶対禁止** | FFAR Art. 14 |
 | Obligación de divulgación / 開示義務 | **Toda remuneración / 全報酬の開示** | FFAR Art. 16 |
@@ -84,37 +87,49 @@
 
 ### 2.2 Honorarios / サービス料
 
-**Ejemplo de cálculo / 計算例：**
+**Ejemplo 1 / 計算例1: Agente representa al jugador (persona) / 選手を代理**
 
 ```
-Traspaso de USD 500,000 (el club paga al agente):
-移籍金 USD 500,000（クラブがエージェントに支払う場合）:
+Remuneración anual: USD 100,000 (≤ 200K)
+年間報酬: USD 100,000（200K以下）
 
-  Primeros USD 200,000 × 10% = USD 20,000
-  最初の200,000 × 10% = USD 20,000
-
-  Resto USD 300,000 × 6%  = USD 18,000
-  残りの300,000 × 6% = USD 18,000
-
-  Total / 合計: USD 38,000
+  USD 100,000 × 5% = USD 5,000
 ```
 
 ```
-Remuneración anual del jugador USD 100,000 (el jugador paga al agente):
-選手の年間報酬 USD 100,000（選手がエージェントに支払う場合）:
+Remuneración anual: USD 600,000 (> 200K)
+年間報酬: USD 600,000（200K超）
 
-  USD 100,000 × 5% = USD 5,000  (≤ USD 200K → 5%)
+  Primeros 200,000 × 5% = USD 10,000
+  Excedente 400,000 × 3% = USD 12,000
+  Total / 合計: USD 22,000
 ```
 
-```
-Remuneración anual del jugador USD 1,000,000 (el jugador paga al agente):
-選手の年間報酬 USD 1,000,000（選手がエージェントに支払う場合）:
+**Ejemplo 2 / 計算例2: Doble representación (entidad de destino + persona) / 双方代理**
 
-  USD 1,000,000 × 3% = USD 30,000  (> USD 200K → 3%)
+```
+Remuneración anual: USD 600,000 (> 200K)
+年間報酬: USD 600,000（200K超）
+
+  Primeros 200,000 × 10% = USD 20,000
+  Excedente 400,000 × 6%  = USD 24,000
+  Total / 合計: USD 44,000
 ```
 
-**Regla clave / 最重要ルール：** ¡El método de cálculo cambia según QUIÉN paga Y el importe!
-「誰が支払うか」と「金額」で計算方法が完全に変わる！
+**Ejemplo 3 / 計算例3: Agente representa a la entidad de origen / 移籍元クラブを代理**
+
+```
+Indemnización por transferencia: USD 500,000
+移籍金: USD 500,000
+
+  USD 500,000 × 10% = USD 50,000（一律 / tasa fija）
+```
+
+**Regla clave / 最重要ルール：**
+- La base de cálculo depende de A QUIÉN representa el agente / 計算基準は「誰を代理するか」で決まる
+- Persona o entidad de destino → base = remuneración del jugador / 選手or移籍先→選手の報酬
+- Entidad de origen → base = indemnización por transferencia / 移籍元→移籍金
+- La doble representación duplica las tasas (5→10%, 3→6%) / 双方代理は料率が倍
 
 ### 2.3 Indemnización por Formación (TC) vs Mecanismo de Solidaridad / TCvsソリダリティ
 

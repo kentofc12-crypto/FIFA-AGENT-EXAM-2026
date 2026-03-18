@@ -47,17 +47,20 @@ TC = Training = 育成年齢に限定（21歳）。ソリダリティ = より�
 
 ---
 
-### Confusión 4: Tasas de honorarios 5% vs 3% vs 10% vs 6% / サービス料率
+### Confusión 4: Tasas de honorarios — depende de A QUIÉN se representa / サービス料率 — 「誰を代理するか」で決まる
 
-| Quién paga / 支払者 | Base / 基準 | Tasa / 料率 |
-|--------------------|------------|------------|
-| **Jugador** → agente (≤USD 200K) / 選手→エージェント（≤200K） | Remuneración anual / 年間報酬 | **5%** |
-| **Jugador** → agente (>USD 200K) / 選手→エージェント（>200K） | Remuneración anual / 年間報酬 | **3%** |
-| **Club** → agente (≤USD 200K) / クラブ→エージェント（≤200K） | Traspaso / 移籍金 | **10%** |
-| **Club** → agente (>USD 200K) / クラブ→エージェント（>200K） | Traspaso (resto) / 移籍金（超過分） | **6%** |
+| A quién representa / 代理先 | Base / 基準 | ≤ USD 200K | > USD 200K（超過分） |
+|---------------------------|------------|------------|-------------------|
+| **Persona** (jugador) / 選手 | Remuneración / 報酬 | **5%** | **3%** |
+| **Entidad de destino** / 移籍先クラブ | Remuneración / 報酬 | **5%** | **3%** |
+| **Doble representación** (destino + persona) / 双方代理 | Remuneración / 報酬 | **10%** | **6%** |
+| **Entidad de origen** / 移籍元クラブ | **Indemnización por transferencia / 移籍金** | **10%（一律）** | **10%（一律）** |
 
-💡 **¡El método de cálculo cambia COMPLETAMENTE según QUIÉN paga Y el importe!**
-「誰が払うか」で計算方法が**完全に**変わる！
+💡 **Puntos clave / 重要ポイント：**
+- Persona y entidad de destino → base = **remuneración del jugador** / 選手or移籍先→**選手の報酬**
+- Entidad de origen → base = **indemnización por transferencia** / 移籍元→**移籍金**
+- La doble representación duplica las tasas (5%→10%, 3%→6%) / 双方代理は料率が倍
+- Solo la entidad de origen usa tasa fija sin escalonamiento / 一律10%は移籍元のみ
 
 ---
 
