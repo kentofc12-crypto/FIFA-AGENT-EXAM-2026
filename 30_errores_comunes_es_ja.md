@@ -105,11 +105,11 @@ TC = Training = 育成年齢に限定（21歳）。ソリダリティ = より�
 
 ---
 
-### Confusión 9: Solidaridad 10% vs Cálculo de TC / ソリダリティ vs TC
+### Confusión 9: Solidaridad 5% vs Cálculo de TC / ソリダリティ vs TC
 
 | | Solidaridad / ソリダリティ | TC |
 |--|--------------------------|-----|
-| Cálculo / 計算 | **10% del traspaso / 移籍金の10%** | Importe fijo por categoría × años / カテゴリ別固定額×年数 |
+| Cálculo / 計算 | **5% del traspaso / 移籍金の5%** | Importe fijo por categoría × años / カテゴリ別固定額×年数 |
 | Sin traspaso / 移籍金なし | **No se genera / 発生しない** | **Sí se genera / 発生する** |
 
 💡 **CRUCIAL: La solidaridad NO se genera sin traspaso. TC sí se genera independientemente del traspaso.**
@@ -233,7 +233,7 @@ TC = Training = 育成年齢に限定（21歳）。ソリダリティ = より�
 ### Patrón 2: Sustitución sutil de números / 微妙な数字のすり替え
 
 **Ejemplos típicos / 典型例：**
-- "La solidaridad es el **5%** del traspaso" → ❌ (correcto: **10%**)
+- "La solidaridad es el **10%** del traspaso" → ❌ (correcto: **5%**)
 - "El período protegido es de 3 años para **28 años o menos**" → ❌ (correcto: **menores de 28**)
 - "El contrato de representación puede durar hasta **3 años**" → ❌ (correcto: **2 años**)
 - "Apelación al TAS en **30 días**" → ❌ (correcto: **21 días**)
@@ -305,14 +305,14 @@ No te dejes engañar por opciones parcialmente correctas. Todas las condiciones 
 | # | Afirmación / 記述 | V/F / 正誤 |
 |---|------------------|-----------|
 | 1 | La duración máxima del contrato de representación es de 3 años / 代理契約の最長は3年 | ❌ (2 años / 2年) |
-| 2 | El mecanismo de solidaridad es el 10% del traspaso / ソリダリティは移籍金の10% | ⭕ |
+| 2 | El mecanismo de solidaridad es el 5% del traspaso / ソリダリティは移籍金の5% | ⭕ |
 | 3 | La TC se aplica a jugadores de 12 a 23 años / TCは12〜23歳が対象 | ❌ (12-21 años / 12〜21歳) |
 | 4 | El período protegido es de 2 años para 28+ y 3 años para menores de 28 / 28歳以上2年、未満3年 | ⭕ |
 | 5 | El conflicto de intereses es aceptable con consentimiento mutuo / 利益相反は相互同意で可 | ❌ (Prohibición absoluta / 絶対禁止) |
 | 6 | Se requiere un título universitario para obtener la licencia / ライセンスに大学学位が必要 | ❌ (No se requiere / 不要) |
 | 7 | La apelación al TAS debe presentarse en 21 días / CAS上訴は21日以内 | ⭕ |
 | 8 | Cada federación tiene votos proporcionales a su tamaño / 各連盟は規模に応じた票数 | ❌ (1 voto por federación / 1連盟1票) |
-| 9 | La solidaridad se genera incluso sin traspaso / 無償移籍でもソリダリティは発生 | ❌ (10% de cero = cero / ゼロ) |
+| 9 | La solidaridad se genera incluso sin traspaso / 無償移籍でもソリダリティは発生 | ❌ (5% de cero = cero / ゼロ) |
 | 10 | La excepción UE/EEE para menores se aplica desde los 14 años / EU/EEA例外は14歳から | ❌ (16 años o más / 16歳以上) |
 
 **¡Si aciertas todas, tienes la base perfecta! / 全問正解なら基礎は完璧！**
@@ -331,7 +331,7 @@ No te dejes engañar por opciones parcialmente correctas. Todas las condiciones 
 | ¿Puede representar a ambos? / 両方代理可能？ | `conflicto de intereses` | FFAR |
 | ¿Cuántos años de protección? / 保護期間 | `período protegido` | RSTP |
 | ¿Se puede rescindir? / 解除可能？ | `justa causa` | RSTP |
-| ¿Cuánto paga de solidaridad? / ソリダリティ額 | `mecanismo de solidaridad` `10%` | RSTP |
+| ¿Cuánto paga de solidaridad? / ソリダリティ額 | `mecanismo de solidaridad` `5%` | RSTP |
 | ¿Se puede transferir al menor? / 未成年移籍 | `menores de edad` `menor` | RSTP |
 | ¿TC o solidaridad? / TCかソリダリティか | `indemnización por formación` | RSTP |
 | ¿Qué cámara? / どの部門？ | `cámara de agentes` `CRD` | Procedimiento |

@@ -218,8 +218,8 @@ Si un jugador readquiere el estatuto de amateur y luego firma un contrato profes
 
 ---
 
-### Q2. Respuesta: C) 10%
-**解説**: RETJ Art. 21 / Anexo 5 に基づき、移籍金の**10%**が連帯貢献金（contribución de solidaridad）として育成クラブに分配される。
+### Q2. Respuesta: B) 5%
+**解説**: RETJ Art. 21 / Anexo 5 に基づき、移籍金の**5%**が連帯貢献金（contribución de solidaridad）として育成クラブに分配される。
 
 ---
 

@@ -45,7 +45,7 @@
 | 連帯責任 | `responsable solidariamente` / `indujo` |
 | トレーニング補償金 | `indemnización por formación` / `art. 20` |
 | TC不適用 | `fútbol femenino` / `sin justa causa` |
-| 連帯貢献金 | `contribución de solidaridad` / `10%` / `art. 21` |
+| 連帯貢献金 | `contribución de solidaridad` / `5%` / `art. 21` |
 | 連帯貢献金の年齢 | `12 años` / `23 años` / `año civil` |
 | 未成年者の移籍 | `menores de 18 años` / `prohibidas` |
 | 未成年移籍の例外 | `no relacionadas con el fútbol` / `UE/EEE` / `16 años` / `50 km` |
