@@ -285,7 +285,7 @@ Un jugador alemán de 16 años vive a 40 km de la frontera con Francia. Quiere t
 ---
 
 ### Q11. Respuesta correcta: B)
-**Explicación**: La contribución de solidaridad se **deduce del 5% de la indemnización por transferencia** por el nuevo club, sin carga adicional. La indemnización por formación, en cambio, es un pago adicional del nuevo club.
+**Explicación**: La contribución de solidaridad se **deduce del 10% de la indemnización por transferencia** por el nuevo club, sin carga adicional. La indemnización por formación, en cambio, es un pago adicional del nuevo club.
 **解説**: 連帯貢献金は移籍金から**控除**（追加負担なし）。
 
 ---

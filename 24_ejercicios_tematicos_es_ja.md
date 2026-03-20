@@ -60,7 +60,7 @@ La indemnización por formación **no se aplica** al fútbol femenino. La contri
 - D) Indemnización por formación: se deduce / Contribución de solidaridad: pago adicional del nuevo club
 
 **Respuesta: B)**
-**Indemnización por formación**: pago adicional del nuevo club. **Contribución de solidaridad**: se deduce el 5% de la indemnización por transferencia (sin carga adicional para el nuevo club).
+**Indemnización por formación**: pago adicional del nuevo club. **Contribución de solidaridad**: se deduce el 10% de la indemnización por transferencia (sin carga adicional para el nuevo club).
 **解説**: トレーニング補償金＝新クラブの追加支払い。連帯貢献金＝移籍金から控除（追加負担なし）。
 
 ---

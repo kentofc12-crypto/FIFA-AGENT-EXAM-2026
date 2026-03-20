@@ -165,9 +165,9 @@
 
 「プロ選手が**契約満了前（antes del vencimiento）**に移籍 → 育成クラブに**連帯貢献金（contribución de solidaridad）**」
 
-> *"El **5%** de toda indemnización por transferencia será deducido del importe total."*
+> *"El **10%** de toda indemnización por transferencia será deducido del importe total."*
 
-「移籍金の**5%**が控除」
+「移籍金の**10%**が控除」
 
 ### Periodo de cálculo / 計算対象期間
 > Desde el año en que cumple **12 años** hasta el año en que cumple **23 años** (año civil)

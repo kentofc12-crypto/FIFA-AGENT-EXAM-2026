@@ -34,7 +34,7 @@
 | Período protegido (28 o más) / 保護期間（28歳以上） | **2 años / 2年** | RSTP Art. 17 |
 | Indemnización por formación (edad) / TC対象年齢 | **12 a 21 años / 12〜21歳** | RSTP Art. 20, Anexo 4 |
 | Plazo para reclamar TC / TC請求期限 | **Hasta fin de temporada del 23.º cumpleaños / 23歳シーズン終了まで** | RSTP Art. 20 |
-| Mecanismo de solidaridad / ソリダリティメカニズム | **5% del traspaso / 移籍金の5%** | RSTP Art. 21, Anexo 5 |
+| Mecanismo de solidaridad / ソリダリティメカニズム | **10% del traspaso / 移籍金の10%** | RSTP Art. 21, Anexo 5 |
 | Solidaridad (edad) / ソリダリティ対象年齢 | **12 a 23 años / 12〜23歳** | RSTP Anexo 5 |
 | Transferencia internacional de menores / 未成年の国際移籍 | **Prohibida para menores de 18 / 18歳未満は原則禁止** | RSTP Art. 19 |
 | Excepción (a): Mudanza de los padres / 例外①親の移住 | **Por razones no futbolísticas / サッカー以外の理由** | RSTP Art. 19.2(a) |
@@ -140,7 +140,7 @@ Indemnización por transferencia: USD 500,000
 | **¿Cuándo?** / いつ？ | Primera inscripción profesional o transferencia antes de 23 años / 初プロ登録時または23歳前の移籍 | Transferencia durante contrato vigente / 契約期間中の移籍 |
 | **Edad / 年齢** | **12-21 años** | **12-23 años** |
 | **Plazo / 期限** | Hasta fin de temporada del 23.º cumpleaños / 23歳シーズン末まで | Automático al transferir / 移籍時に自動適用 |
-| **Importe / 金額** | Cálculo por categoría / カテゴリに基づく計算 | **5% del traspaso / 移籍金の5%** |
+| **Importe / 金額** | Cálculo por categoría / カテゴリに基づく計算 | **10% del traspaso / 移籍金の10%** |
 | **¿Quién paga? / 支払者** | Nuevo club → club formador / 新クラブ→育成クラブ | Club adquirente → clubes formadores / 獲得クラブ→育成クラブ群 |
 | **Sin traspaso / 移籍金なし** | **Sí se genera / 発生する** | **No se genera / 発生しない** |
 
@@ -273,8 +273,8 @@ Verificar cada opción **individualmente** contra el reglamento.
       TCとソリダリティの違い
 - [ ] TC: edades 12-21, plazo hasta temporada del 23.º cumpleaños
       TC：12-21歳、請求期限23歳シーズン末
-- [ ] Solidaridad: edades 12-23, 5% del traspaso
-      ソリダリティ：12-23歳、5%
+- [ ] Solidaridad: edades 12-23, 10% del traspaso
+      ソリダリティ：12-23歳、10%
 - [ ] 3 excepciones para menores
       未成年移籍の3つの例外
 - [ ] Justa causa vs justa causa deportiva

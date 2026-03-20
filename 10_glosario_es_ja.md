@@ -37,7 +37,7 @@
 | **Congreso de la FIFA** | FIFA総会 | Órgano supremo y legislativo de la FIFA（FIFAの最高意思決定・立法機関） |
 | **Consejo de la FIFA** | FIFA理事会（Council） | Órgano ejecutivo de la FIFA（FIFAの執行機関） |
 | **Contrato de empleo / profesional** | 雇用契約 / プロ契約 | Acuerdo entre jugador y club（選手とクラブ間の契約） |
-| **Contribución de solidaridad** | 連帯貢献金 | 5% de la indemnización de transferencia（移籍金の5%。育成クラブへ分配） |
+| **Contribución de solidaridad** | 連帯貢献金 | 10% de la indemnización de transferencia（移籍金の10%。育成クラブへ分配） |
 
 ## D
 
@@ -93,7 +93,7 @@
 
 | Español | Japonés | Explicación |
 |---------|---------|-------------|
-| **Mecanismo de solidaridad** | 連帯メカニズム | Art. 21 RETJ, 5% de la transferencia（RETJ第21条。移籍金の5%を育成クラブに分配） |
+| **Mecanismo de solidaridad** | 連帯メカニズム | Art. 21 RETJ, 10% de la transferencia（RETJ第21条。移籍金の10%を育成クラブに分配） |
 | **Mediación** | 調停 | Proceso voluntario y gratuito（任意かつ無料の紛争解決手段） |
 | **Menor de edad** | 未成年者 | Jugador menor de 18 años（18歳未満の選手。国際移籍は原則禁止） |
 | **Múltiple representación** | 複数代理 | Representar a más de una parte（複数当事者の代理。原則禁止） |
@@ -159,7 +159,7 @@
 | Español | Japonés | Valor |
 |---------|---------|-------|
 | Duración máxima del contrato de representación | 代理契約の最長期間 | **2 años / 2年** |
-| Contribución de solidaridad | 連帯貢献金の割合 | **5%** |
+| Contribución de solidaridad | 連帯貢献金の割合 | **10%** |
 | Edad para cálculo de solidaridad | 連帯貢献金の計算対象 | **12–23 años / 12〜23歳の暦年** |
 | Periodo de protección (<28 años) | 保護期間（28歳未満） | **3 años / 3年** |
 | Periodo de protección (≥28 años) | 保護期間（28歳以上） | **2 años / 2年** |

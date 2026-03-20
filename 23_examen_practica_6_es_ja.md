@@ -216,8 +216,8 @@ Tras el regreso al estatus de amateur, ¿dentro de cuántos meses debe firmarse 
 
 ---
 
-### Q2. Respuesta correcta: B) 5%
-**Explicación / 解説**: La contribución de solidaridad es el **5%** de la indemnización por transferencia. / 連帯貢献金は移籍金の**5%**。
+### Q2. Respuesta correcta: D) 10%
+**Explicación / 解説**: La contribución de solidaridad es el **10%** de la indemnización por transferencia. / 連帯貢献金は移籍金の**10%**。
 
 ---
 

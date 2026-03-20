@@ -31,16 +31,16 @@ El jugador B (22 años) fue formado en el Club C de los 12 a los 16 años, y jug
 
 選手B（22歳）は12〜16歳をクラブC、17〜21歳をクラブDで過ごし、22歳でUSD 2,000,000でクラブEに移籍。ソリダリティに基づく配分は？
 
-- A) Club C: USD 25,000, Club D: USD 75,000
-- B) Club C: USD 40,000, Club D: USD 60,000
-- C) Club C: USD 50,000, Club D: USD 50,000
+- A) Club C: USD 50,000, Club D: USD 150,000
+- B) Club C: USD 80,000, Club D: USD 120,000
+- C) Club C: USD 100,000, Club D: USD 100,000
 - D) No se aplica solidaridad / ソリダリティ対象外
 
 **Respuesta correcta / 正解: A**
 
 **Explicación / 解説:**
-La solidaridad es el **5%** del traspaso = USD 100,000, distribuido entre los clubes formadores según los años de formación (12-23 años). Sin embargo, la distribución no es lineal — los años de mayor edad tienen un porcentaje mayor según el Anexo 5. La opción A refleja esta distribución ponderada.
-ソリダリティは移籍金の5% = USD 100,000。Anexo 5の配分表により年齢が高いほど割合が大きいため、均等配分にはならない。
+La solidaridad es el **10%** del traspaso = USD 200,000, distribuido entre los clubes formadores según los años de formación (12-23 años). Sin embargo, la distribución no es lineal — los años de mayor edad tienen un porcentaje mayor según el Anexo 5. La opción A refleja esta distribución ponderada.
+ソリダリティは移籍金の10% = USD 200,000。Anexo 5の配分表により年齢が高いほど割合が大きいため、均等配分にはならない。
 
 ---
 
@@ -182,8 +182,8 @@ El jugador G (24 años) se transfiere del Club L al Club M sin traspaso (fin de 
 
 - A) Sí — la solidaridad se aplica independientemente del traspaso
   可能 — ソリダリティは移籍金に関係なく適用
-- B) No — la solidaridad es el 5% del traspaso; si el traspaso es cero, la compensación es cero
-  不可 — 移籍金の5%なので、ゼロならゼロ
+- B) No — la solidaridad es el 10% del traspaso; si el traspaso es cero, la compensación es cero
+  不可 — 移籍金の10%なので、ゼロならゼロ
 - C) Sí, pero debe reclamarse como TC
   可能、ただしTCとして請求
 - D) No — el jugador supera los 23 años
@@ -192,8 +192,8 @@ El jugador G (24 años) se transfiere del Club L al Club M sin traspaso (fin de 
 **Respuesta correcta / 正解: B**
 
 **Explicación / 解説:**
-El mecanismo de solidaridad es el **5% del traspaso** (RSTP Art. 21). Si no hay traspaso (transferencia gratuita), el 5% de cero es **cero**. TC tampoco es aplicable ya que el jugador tiene 24 años (el plazo para TC expira al final de la temporada del 23.º cumpleaños).
-ソリダリティは移籍金の5%。移籍金ゼロなら補償もゼロ。TCも24歳では請求期限切れ。
+El mecanismo de solidaridad es el **10% del traspaso** (RSTP Art. 21). Si no hay traspaso (transferencia gratuita), el 10% de cero es **cero**. TC tampoco es aplicable ya que el jugador tiene 24 años (el plazo para TC expira al final de la temporada del 23.º cumpleaños).
+ソリダリティは移籍金の10%。移籍金ゼロなら補償もゼロ。TCも24歳では請求期限切れ。
 
 ---
 
@@ -560,11 +560,11 @@ El jugador K (25 años) se transfiere por USD 5,000,000. ¿Cuál es el importe t
 - C) USD 500,000
 - D) USD 50,000
 
-**Respuesta correcta / 正解: B**
+**Respuesta correcta / 正解: C**
 
 **Explicación / 解説:**
-5% de USD 5,000,000 = **USD 250,000**. Este monto se distribuye entre los clubes formadores (12-23 años).
-5,000,000 × 5% = 250,000。12〜23歳の育成クラブ間で配分。
+10% de USD 5,000,000 = **USD 500,000**. Este monto se distribuye entre los clubes formadores (12-23 años).
+5,000,000 × 10% = 500,000。12〜23歳の育成クラブ間で配分。
 
 ---
 
