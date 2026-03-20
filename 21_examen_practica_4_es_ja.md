@@ -231,10 +231,10 @@ Un jugador alemán de 16 años vive a 40 km de la frontera con Francia. Quiere t
 
 ### Q4. Respuesta correcta: C)
 **Explicación**: Base de cálculo de los honorarios:
-- **Representación del jugador**: 3%/5% de la **remuneración** del jugador
-- **Representación del nuevo club**: 3%/5% de la **remuneración** del jugador
-- **Representación del club vendedor**: 10% de la **indemnización por transferencia**
-**解説**: 選手代理・新クラブ代理は**選手給与**ベース。売却クラブ代理のみ**移籍金**ベース。
+- **Persona / entidad de destino**: ≤200,000 USD → 5% de la remuneración; >200,000 USD → 3% del excedente
+- **Doble representación (persona + destino)**: ≤200,000 USD → 10%; >200,000 USD → 6% del excedente
+- **Entidad de origen (club vendedor)**: 10% de la **indemnización por transferencia**
+**解説**: 選手/移籍先クラブ代理は**報酬**ベースで200,000 USD閾値あり（≤200k: 5%、超過分: 3%）。売却クラブ代理のみ**移籍金**の10%。
 
 ---
 

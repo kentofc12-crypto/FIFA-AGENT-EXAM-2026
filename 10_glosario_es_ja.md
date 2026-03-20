@@ -176,8 +176,8 @@
 | Sanción club (prohibición de inscripción) | クラブ登録禁止制裁 | **2 ventanas / 2ウィンドウ** |
 | Inscripción máxima por temporada | 1シーズン最大登録 | **3 clubes（出場は2 clubesまで）** |
 | Edad mínima para licencia de agente | ライセンス最低年齢 | **18 años / 18歳** |
-| Honorarios — representando al club adquirente | 新クラブ代理の手数料上限 | **3%/5% del salario** |
-| Honorarios — representando al jugador | 選手代理の手数料上限 | **3%/5% del salario** |
+| Honorarios — representando a persona / entidad de destino | 選手/移籍先クラブ代理の手数料上限 | **≤200k USD: 5% / >200k USD: 3% del excedente** |
+| Honorarios — doble representación (persona + destino) | 双方代理の手数料上限 | **≤200k USD: 10% / >200k USD: 6% del excedente** |
 | Honorarios — representando al club cedente | 売却クラブ代理の手数料上限 | **10% de la transferencia** |
 
 ---
