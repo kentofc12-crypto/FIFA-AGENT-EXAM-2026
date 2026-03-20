@@ -91,8 +91,8 @@
 
 | Situación (ES) | 日本語 | Sanción deportiva |
 |-----------------|--------|-------------------|
-| **Dentro del periodo de protección** | 保護期間内 | **6 meses** de suspensión（6ヶ月の出場停止） |
-| **Fuera del periodo de protección** | 保護期間外 | **4 meses** de suspensión（4ヶ月の出場停止） |
+| **Dentro del periodo de protección** | 保護期間内 | **4 meses** de suspensión（4ヶ月の出場停止）; con agravantes: **6 meses**（加重事由で6ヶ月） |
+| **Fuera del periodo de protección** | 保護期間外 | **Sin sanción deportiva**（スポーツ制裁なし、補償金のみ） |
 
 ### Para el nuevo club / 新クラブに対して:
 > *"El nuevo club será considerado **responsable solidariamente** del pago de la compensación si se demuestra que **indujo** al jugador a incumplir su contrato."*

@@ -159,9 +159,11 @@ Indemnización por transferencia: USD 500,000
 - Jugador establecido con menos del **10%** de participación en partidos oficiales
   確立された選手の公式戦出場率**10%未満**
 
-**Sanciones por rescisión injustificada durante el período protegido / 保護期間中の不当解除の制裁：**
-- Jugador rescinde / 選手が解除: Indemnización + hasta **4 meses** de suspensión (hasta **6 meses** con agravantes)
-  補償金＋最大4ヶ月の出場停止（加重事由で6ヶ月）
+**Sanciones por rescisión injustificada / 不当解除の制裁：**
+- Jugador rescinde (dentro del período protegido) / 選手が解除（保護期間内）: Indemnización + **4 meses** de suspensión (**6 meses** con agravantes)
+  補償金＋4ヶ月の出場停止（加重事由で6ヶ月）
+- Jugador rescinde (fuera del período protegido) / 選手が解除（保護期間外）: Solo indemnización (**sin sanción deportiva**)
+  補償金のみ（**スポーツ制裁なし**）
 - Club rescinde / クラブが解除: Indemnización + posible prohibición de inscripción
   補償金＋登録禁止の可能性
 

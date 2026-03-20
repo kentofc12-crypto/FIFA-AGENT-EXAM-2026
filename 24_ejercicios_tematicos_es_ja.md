@@ -175,9 +175,9 @@ Se genera si se firma un contrato profesional dentro de los **30 meses** posteri
 - C) 8 meses
 - D) 12 meses
 
-**Respuesta: B)**
-Dentro del período de protección: **6 meses** de suspensión.
-**解説**: 保護期間内は**6ヶ月**。
+**Respuesta: A)**
+Dentro del período de protección: **4 meses** de suspensión (con agravantes: 6 meses).
+**解説**: 保護期間内は**4ヶ月**（加重事由で6ヶ月）。
 
 ---
 
@@ -189,9 +189,9 @@ Dentro del período de protección: **6 meses** de suspensión.
 - C) 6 meses
 - D) Sin suspensión
 
-**Respuesta: B)**
-Fuera del período de protección: **4 meses** de suspensión.
-**解説**: 保護期間外は**4ヶ月**。
+**Respuesta: D)**
+Fuera del período de protección: **sin sanción deportiva** (solo indemnización).
+**解説**: 保護期間外は**スポーツ制裁なし**（補償金のみ）。
 
 ---
 

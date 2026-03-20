@@ -209,8 +209,8 @@ TC = Training = 育成年齢に限定（21歳）。ソリダリティ = より�
 | Definición / 定義 | Período con sanciones agravadas por rescisión injusta / 不当解除の制裁強化期間 | Vigencia total del contrato / 契約の有効期間 |
 | Duración / 長さ | 2 o 3 años (según edad) / 年齢依存 | Máx. 5 años / 最長5年 |
 
-💡 **Trampa: "Después del período protegido, no hay obligaciones contractuales" → INCORRECTO. El contrato sigue vigente; solo se reducen las sanciones.**
-「保護期間後は契約義務なし」は誤り。契約は有効、制裁が軽減されるだけ。
+💡 **Trampa: "Después del período protegido, no hay obligaciones contractuales" → INCORRECTO. El contrato sigue vigente; solo la indemnización se aplica (sin sanción deportiva).**
+「保護期間後は契約義務なし」は誤り。契約は有効で補償金の支払い義務がある。ただし保護期間外ではスポーツ的制裁（出場停止）自体が存在しない。
 
 ---
 
