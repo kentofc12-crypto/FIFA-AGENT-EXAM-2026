@@ -70,6 +70,12 @@ FIFA フットボールエージェント試験 2026 に合格するための包
 | [38_daily_flashcards_ja.md](./38_daily_flashcards_ja.md) | **毎日の朝フラッシュカード**（39日分・ES用語併記） |
 | [39_spanish_keyword_drills_ja.md](./39_spanish_keyword_drills_ja.md) | **スペイン語PDF検索キーワードドリル**（タイムトライアル付き） |
 
+### 追加模擬試験 スペイン語版（2026年3月追加）
+| ファイル | 内容 |
+|---------|------|
+| [40_examen_practica_7_es_ja.md](./40_examen_practica_7_es_ja.md) | Examen N.º 7（20問）— **倫理/CAS/Clearing House特化**（ES問題文 + JA解説） |
+| [41_examen_practica_8_es_ja.md](./41_examen_practica_8_es_ja.md) | Examen N.º 8（20問）— **総合最終確認**（ES問題文 + JA解説） |
+
 ## 公式教材（出題範囲）— スペイン語版の正式名称
 
 | # | Español | 日本語 |
