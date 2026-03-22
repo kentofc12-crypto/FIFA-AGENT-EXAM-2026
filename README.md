@@ -57,6 +57,19 @@ FIFA フットボールエージェント試験 2026 に合格するための包
 | [23_examen_practica_6_es_ja.md](./23_examen_practica_6_es_ja.md) | Examen N.º 6（20問）— 直前確認・スピード演習（ES問題文 + JA解説） |
 | [24_ejercicios_tematicos_es_ja.md](./24_ejercicios_tematicos_es_ja.md) | Ejercicios temáticos（35問）— 分野別ドリル（ES問題文 + JA解説） |
 
+### 追加学習資料（2026年3月追加 — 不足分野の補強＆直前対策）
+| ファイル | 内容 |
+|---------|------|
+| [31_revised_40day_plan_ja.md](./31_revised_40day_plan_ja.md) | **改訂版39日間学習プラン**（3/23〜4/30） |
+| [32_ethics_code_summary_ja.md](./32_ethics_code_summary_ja.md) | **倫理規程 & 懲戒規程 要点まとめ**（Codigo de Etica + Codigo Disciplinario） |
+| [33_cas_dispute_resolution_ja.md](./33_cas_dispute_resolution_ja.md) | **CAS & 紛争解決メカニズム 詳細ガイド** |
+| [34_clearing_house_detailed_ja.md](./34_clearing_house_detailed_ja.md) | **Clearing House 詳細ガイド**（FCH・EPP・ソリダリティ配分） |
+| [35_practice_exam_7_ja.md](./35_practice_exam_7_ja.md) | 模擬試験 第7回（20問）— **倫理/CAS/Clearing House特化** |
+| [36_practice_exam_8_ja.md](./36_practice_exam_8_ja.md) | 模擬試験 第8回（20問）— **総合最終確認**（本番想定） |
+| [37_number_cheatsheet_ja.md](./37_number_cheatsheet_ja.md) | **数字・期限 一枚チートシート**（全重要数値を1ページに集約） |
+| [38_daily_flashcards_ja.md](./38_daily_flashcards_ja.md) | **毎日の朝フラッシュカード**（39日分・ES用語併記） |
+| [39_spanish_keyword_drills_ja.md](./39_spanish_keyword_drills_ja.md) | **スペイン語PDF検索キーワードドリル**（タイムトライアル付き） |
+
 ## 公式教材（出題範囲）— スペイン語版の正式名称
 
 | # | Español | 日本語 |
