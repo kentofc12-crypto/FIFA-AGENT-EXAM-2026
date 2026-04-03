@@ -228,12 +228,12 @@ Si un jugador readquiere el estatuto de amateur y luego firma un contrato profes
 
 ---
 
-### Q4. Respuesta: A), B), C)
+### Q4. Respuesta: A), B), C), D)
 **解説**:
 - **A)** 女子サッカー（fútbol femenino）にはトレーニング補償金は不適用
-- **B)** 正当な理由なく解除（rescindido sin justa causa）された場合は不要
+- **B)** 売却クラブとの契約が正当な理由なく解除（rescindido sin justa causa）された場合は不要
 - **C)** アマチュアの身分を再取得（readquiere el estatuto de amateur）する場合も不要
-- D) 25歳以上は自動的に対象外ではない（23歳のシーズン終了が基準）
+- **D)** TCは23歳のシーズン終了までが対象。25歳以上の選手は当然対象外のため不要
 
 ---
 

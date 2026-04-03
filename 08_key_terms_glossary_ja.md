@@ -32,6 +32,7 @@ FIFA Football Agent Exam で頻出する重要用語の英日対照リストで�
 | Compensation | 補償金 | 契約違反等に対する金銭的賠償 |
 | Confederation | 大陸連盟 | AFC, CAF, CONCACAF, CONMEBOL, OFC, UEFA |
 | Congress | 総会 | FIFAの最高意思決定・立法機関 |
+| Continuing Education (Formación continua) | 継続教育 | エージェントが未成年者を代理するために事前に修了すべき教育コース等 |
 | Contractual Stability | 契約の安定性 | 契約期間中の一方的解除を制限する原則 |
 
 ## D
@@ -89,7 +90,8 @@ FIFA Football Agent Exam で頻出する重要用語の英日対照リストで�
 |------|--------|------|
 | Mediation | 調停 | Football Tribunalにおける任意・無料の紛争解決手段 |
 | Member Association | 加盟協会 | FIFAに加盟する各国のサッカー協会 |
-| Minor | 未成年者 | 18歳未満の選手 |
+| Minor (Menor de edad) | 未成年者 | 18歳未満の選手 |
+| Minor Representation (Representación de menores) | 未成年者の代理 | Art. 13に規定。接触はプロ契約締結可能年齢の6ヶ月前から、1回限り |
 | Multiple Representation | 複数代理 | 同一取引で複数当事者を代理すること（原則禁止） |
 
 ## N
@@ -135,6 +137,7 @@ FIFA Football Agent Exam で頻出する重要用語の英日対照リストで�
 
 | 英語 | 日本語 | 説明 |
 |------|--------|------|
+| Tutor legal | 法定代理人（未成年者の） | 未成年者の代理契約に署名が必要な保護者・法定後見人 |
 | TMS (Transfer Matching System) | 移籍マッチングシステム | FIFAの国際移籍処理システム |
 | TPO (Third-Party Ownership) | 第三者保有 | 選手の経済的権利の第三者保有（禁止） |
 | Training Compensation | トレーニング補償金 | 育成クラブへの補償金（23歳まで、女子不適用） |
@@ -158,8 +161,8 @@ FIFA Football Agent Exam で頻出する重要用語の英日対照リストで�
 | 手続き停止期間 | **12月20日〜1月5日** |
 | 第1移籍ウィンドウ最長 | **12週間** |
 | 第2移籍ウィンドウ最長 | **4週間** |
-| 保護期間内の出場停止 | **6ヶ月** |
-| 保護期間外の出場停止 | **4ヶ月** |
+| 保護期間内の出場停止 | **4ヶ月**（加重事由で**6ヶ月**） |
+| 保護期間外の出場停止 | **なし**（スポーツ制裁自体が存在しない） |
 | クラブへの登録禁止制裁 | **2ウィンドウ** |
 | 1シーズン最大登録クラブ | **3クラブ**（出場は2クラブまで） |
 | 試験の問題数 | **20問** |

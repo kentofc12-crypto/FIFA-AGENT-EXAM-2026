@@ -171,13 +171,13 @@
 | Suspensión de plazos procesales | 手続き停止期間 | **20 dic – 5 ene** |
 | Primera ventana de fichajes | 第1移籍ウィンドウ最長 | **12 semanas / 12週間** |
 | Segunda ventana de fichajes | 第2移籍ウィンドウ最長 | **4 semanas / 4週間** |
-| Sanción jugador (periodo protegido) | 保護期間内の出場停止 | **6 meses / 6ヶ月** |
-| Sanción jugador (fuera de periodo) | 保護期間外の出場停止 | **4 meses / 4ヶ月** |
+| Sanción jugador (periodo protegido) | 保護期間内の出場停止 | **4 meses / 4ヶ月**（agravantes: 6 meses / 加重事由で6ヶ月） |
+| Sanción jugador (fuera de periodo) | 保護期間外の出場停止 | **Sin sanción deportiva / スポーツ制裁なし** |
 | Sanción club (prohibición de inscripción) | クラブ登録禁止制裁 | **2 ventanas / 2ウィンドウ** |
 | Inscripción máxima por temporada | 1シーズン最大登録 | **3 clubes（出場は2 clubesまで）** |
 | Edad mínima para licencia de agente | ライセンス最低年齢 | **18 años / 18歳** |
-| Honorarios — representando al club adquirente | 新クラブ代理の手数料上限 | **3%/5% del salario** |
-| Honorarios — representando al jugador | 選手代理の手数料上限 | **3%/5% del salario** |
+| Honorarios — representando a persona / entidad de destino | 選手/移籍先クラブ代理の手数料上限 | **≤200k USD: 5% / >200k USD: 3% del excedente** |
+| Honorarios — doble representación (persona + destino) | 双方代理の手数料上限 | **≤200k USD: 10% / >200k USD: 6% del excedente** |
 | Honorarios — representando al club cedente | 売却クラブ代理の手数料上限 | **10% de la transferencia** |
 
 ---

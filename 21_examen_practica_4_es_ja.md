@@ -231,10 +231,10 @@ Un jugador alemán de 16 años vive a 40 km de la frontera con Francia. Quiere t
 
 ### Q4. Respuesta correcta: C)
 **Explicación**: Base de cálculo de los honorarios:
-- **Representación del jugador**: 3%/5% de la **remuneración** del jugador
-- **Representación del nuevo club**: 3%/5% de la **remuneración** del jugador
-- **Representación del club vendedor**: 10% de la **indemnización por transferencia**
-**解説**: 選手代理・新クラブ代理は**選手給与**ベース。売却クラブ代理のみ**移籍金**ベース。
+- **Persona / entidad de destino**: ≤200,000 USD → 5% de la remuneración; >200,000 USD → 3% del excedente
+- **Doble representación (persona + destino)**: ≤200,000 USD → 10%; >200,000 USD → 6% del excedente
+- **Entidad de origen (club vendedor)**: 10% de la **indemnización por transferencia**
+**解説**: 選手/移籍先クラブ代理は**報酬**ベースで200,000 USD閾値あり（≤200k: 5%、超過分: 3%）。売却クラブ代理のみ**移籍金**の10%。
 
 ---
 
@@ -260,13 +260,13 @@ Un jugador alemán de 16 años vive a 40 km de la frontera con Francia. Quiere t
 
 ---
 
-### Q8. Respuesta correcta: A), B), D)
+### Q8. Respuesta correcta: A), B), C), D)
 **Explicación**:
 - **A) Fútbol femenino**: no se aplica la indemnización por formación
 - **B) Readquisición del estatus de amateur**: no se aplica
+- **C) Jugador de 32 años**: la IF solo se paga hasta el fin de la temporada del 23.º cumpleaños. A los 32, no se genera
 - **D) Rescisión sin causa justificada**: no se genera
-- C) A los 32 años ya se superó la edad límite (fin de la temporada del 23.º cumpleaños)
-**解説**: 女子サッカー、アマチュア復帰、正当な理由なき契約解除の場合は不発生。
+**解説**: 全て正解。女子サッカー、アマチュア復帰、23歳超の選手（32歳）、正当な理由なき契約解除 — いずれもTC不発生。
 
 ---
 

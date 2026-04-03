@@ -66,12 +66,12 @@
 
 「ECJ判決待ちで世界的に停止中だが、**試験では条文に基づいて出題される可能性あり**」
 
-| Quién representa (ES) | 日本語 | Límite / 上限 |
-|------------------------|--------|--------------|
-| **Club adquirente** (新クラブ) | 新クラブの代理 | 3%/5% del salario del jugador |
-| **Jugador** (選手) | 選手の代理 | 3%/5% del salario del jugador |
-| **Jugador y club adquirente** (選手+新クラブ) | 双方代理 | 6%/10% del salario del jugador |
-| **Club cedente** (売却クラブ) | 売却クラブの代理 | 10% de la indemnización de transferencia |
+| Quién representa | ≤200,000 USD | >200,000 USD（超過分） |
+|------------------|-------------|---------------------|
+| **Persona** (選手) | 5% de la remuneración（報酬の5%） | 3% del excedente（超過分の3%） |
+| **Entidad de destino** (移籍先クラブ) | 5% de la remuneración（報酬の5%） | 3% del excedente（超過分の3%） |
+| **Persona + entidad de destino** (双方代理) | 10% de la remuneración（報酬の10%） | 6% del excedente（超過分の6%） |
+| **Entidad de origen** (売却クラブ) | 10% de la indemnización por transferencia（移籍金の10%） | — |
 
 ### Principio de que el cliente paga / クライアント負担原則
 > *"Los honorarios del agente serán abonados por el cliente."*
@@ -106,13 +106,17 @@
 
 ---
 
-## 7. Menores / 未成年者に関する規定
+## 7. Menores / 未成年者の代理（Art. 13）
 
-> *"Todo contacto con un menor con relación a la prestación de servicios de representación deberá llevarse a cabo, como pronto, **seis meses antes** de que el menor cumpla la edad en la que pueda firmar su contrato."*
+> *"Todo contacto con un menor o con su tutor legal con relación a la prestación de servicios de representación deberá llevarse a cabo, como pronto, **seis meses antes** de que el menor cumpla la edad en la que pueda firmar su primer contrato profesional."*
 
-「未成年者への代理サービスに関する接触は、契約締結可能年齢の**6ヶ月前**から」
+「未成年者への代理サービスに関する接触は、最初のプロ契約締結可能年齢の**6ヶ月前**から」
 
-- 親権者/法定代理人 (**tutor legal**) の同意が必要
+- 接触は**1回限り**（solo podrá llevarse a cabo **una vez**）
+- 法定代理人（**tutor legal**）の**事前の書面による明示的な同意**が必要（consentimiento expreso por escrito）
+- エージェントは事前に**未成年者代理の継続教育コース**（curso de formación continua）を修了する必要がある
+- 代理契約は**未成年者と法定代理人の両方が署名**して初めて有効
+- 違反の制裁: 最低**罰金＋最長2年のライセンス停止**（multa + suspensión de hasta dos años）
 
 ---
 

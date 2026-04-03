@@ -286,8 +286,8 @@ Tras el regreso al estatus de amateur, ¿dentro de cuántos meses debe firmarse 
 
 ---
 
-### Q16. Respuesta correcta: C) 6 meses
-**Explicación / 解説**: Dentro del período de protección: suspensión de **6 meses**. Fuera del período: 4 meses. / 保護期間内は**6ヶ月**、期間外は4ヶ月。
+### Q16. Respuesta correcta: B) 4 meses
+**Explicación / 解説**: Dentro del período de protección: suspensión de **4 meses** (con agravantes: 6 meses). Fuera del período: sin sanción deportiva. / 保護期間内は**4ヶ月**（加重事由で6ヶ月）、期間外はスポーツ制裁なし。
 
 ---
 

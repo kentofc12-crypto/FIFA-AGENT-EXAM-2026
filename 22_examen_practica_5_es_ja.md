@@ -12,7 +12,7 @@ Un jugador profesional de 21 años (Jugador A) rescindió unilateralmente su con
 
 - A) El Jugador A tiene la obligación de pagar una compensación
 - B) El Club C es responsable solidariamente del pago de la compensación
-- C) El Jugador A puede recibir una sanción de 6 meses de suspensión
+- C) El Jugador A puede recibir una sanción de 4 meses de suspensión (6 meses con agravantes)
 - D) El Club C puede recibir una prohibición de inscribir nuevos jugadores durante 2 períodos de inscripción
 
 ---
@@ -202,7 +202,7 @@ El Agente A está considerando retirarse y quiere transferir su licencia al Agen
 Un jugador profesional de 25 años, en el segundo año de un contrato de 3 años, rescindió su contrato alegando que el club le adeudaba 6 meses de salario. ¿Cuál es la afirmación correcta?
 
 - A) Es muy probable que se reconozca una causa justificada (Just Cause) y no se impongan sanciones deportivas
-- B) Se impone una suspensión de 6 meses por estar dentro del período de protección
+- B) Se impone una suspensión de 4 meses por estar dentro del período de protección
 - C) Debe pagar compensación independientemente de si hay causa justificada
 - D) El impago de salarios no se reconoce como causa justificada
 
@@ -216,7 +216,7 @@ Un jugador profesional de 25 años, en el segundo año de un contrato de 3 años
 **Explicación**:
 - **A)** Rescisión sin causa justificada → obligación de **compensación**
 - **B)** El Club C indujo la transferencia → **responsabilidad solidaria**
-- **C)** Jugador de 21 años (menor de 28), contrato con 2 años restantes → dentro del período de protección (3 años) → **6 meses de suspensión**
+- **C)** Jugador de 21 años (menor de 28), contrato con 2 años restantes → dentro del período de protección (3 años) → **4 meses de suspensión** (6 meses con agravantes)
 - **D)** Club que indujo → **prohibición de inscripción durante 2 períodos**
 **解説**: 全選択肢が正しい。保護期間内の正当な理由なき解除＋誘引で全ての制裁が適用。
 
@@ -283,9 +283,9 @@ Un jugador profesional de 25 años, en el segundo año de un contrato de 3 años
 
 ---
 
-### Q11. Respuesta correcta: B) 4 meses de suspensión + compensación
-**Explicación**: Jugador de 27 años (menor de 28) → período de protección de 3 años. 4 años desde la firma → período de protección expirado. **Fuera del período de protección**: suspensión de **4 meses** + compensación.
-**解説**: 保護期間外の場合、4ヶ月の出場停止＋補償金。保護期間外でも制裁はある。
+### Q11. Respuesta correcta: C) Solo compensación (sin sanción deportiva)
+**Explicación**: Jugador de 27 años (menor de 28) → período de protección de 3 años. 4 años desde la firma → período de protección expirado. **Fuera del período de protección**: no hay sanciones deportivas, solo compensación.
+**解説**: 保護期間外の場合、スポーツ的制裁は科されない。補償金の支払い義務のみ。保護期間外ではスポーツ制裁自体が存在しない。
 
 ---
 

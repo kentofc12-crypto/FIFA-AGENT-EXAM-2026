@@ -211,8 +211,8 @@ Un jugador profesional de 22 años termina su contrato (vencimiento natural) y f
 
 ## RESPUESTAS Y EXPLICACIONES / 解答と解説
 
-### Q1. Respuesta: C) 6 meses de suspensión
-**解説**: 22歳 → 保護期間は3年。2年前に締結 → まだ保護期間内。保護期間内（dentro del periodo de protección）の正当な理由なき解除 → **6ヶ月**の出場停止。
+### Q1. Respuesta: B) 4 meses de suspensión
+**解説**: 22歳 → 保護期間は3年。2年前に締結 → まだ保護期間内。保護期間内（dentro del periodo de protección）の正当な理由なき解除 → **4ヶ月**の出場停止（加重事由で6ヶ月）。保護期間外であればスポーツ制裁なし。
 
 ---
 
@@ -267,7 +267,7 @@ Un jugador profesional de 22 años termina su contrato (vencimiento natural) y f
 ---
 
 ### Q12. Respuesta: B)
-**解説**: 30歳 → 28歳以上なので保護期間は**2年**。1年前に締結 → まだ保護期間内（1年 < 2年）。保護期間内の解除は6ヶ月の出場停止。
+**解説**: 30歳 → 28歳以上なので保護期間は**2年**。1年前に締結 → まだ保護期間内（1年 < 2年）。保護期間内の解除は4ヶ月の出場停止（加重事由で6ヶ月）。
 
 ---
 
